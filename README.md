@@ -18,7 +18,7 @@
 ## Providers
 
 Providers are the abstractions that bridge the gap between the SDK and the vendors or tools that store, manage and server feature flags.
-See the [provider spec](https://openfeature.dev/specification/sections/providers), and [FAQ (https://openfeature.dev/docs/reference/concepts/provider#faq).
+See the [provider spec](https://openfeature.dev/specification/sections/providers), and [FAQ](https://openfeature.dev/docs/reference/concepts/provider#faq).
 
 - Check out [existing providers](https://openfeature.dev/ecosystem)
   - Consider implementing an "env_var" provider if none exists for the language in question
