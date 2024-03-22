@@ -22,7 +22,8 @@ See the [provider spec](https://openfeature.dev/specification/sections/providers
 ## Hooks
 
 Hooks add arbitrary functionality to a flag evaluation.
-See the [hook spec](https://openfeature.dev/specification/sections/hooks) and [concept section](https://openfeature.dev/docs/reference/concepts/hooks)https://openfeature.dev/docs/reference/concepts/hooks.
+See the [hook spec](https://openfeature.dev/specification/sections/hooks) and [concept section](https://openfeature.dev/docs/reference/concepts/hooks).
+ - Consider implementing a validation hook (see [Go example](https://github.com/open-feature/go-sdk-contrib/tree/main/hooks/validator))
 
 ## Related tools
 
