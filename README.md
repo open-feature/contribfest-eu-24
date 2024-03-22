@@ -39,8 +39,7 @@ A "cloud native" backend for feature flags, with providers in multiple languages
 
 - [flagd repo](https://github.com/open-feature/flagd)
 - [docs](https://flagd.dev/)
-- flagd providers can be found in [contrib repos](https://github.com/orgs/open-feature/repositories?q=sdk-contrib)https://github.com/orgs/open-feature/repositories?q=sdk-contrib
-
+- flagd providers can be found in [contrib repos](https://github.com/orgs/open-feature/repositories?q=sdk-contrib)
 ### OpenFeature Operator
 
 Manage feature flags as Kubernetes resources (CRs) and automatically inject and configure flagd.
