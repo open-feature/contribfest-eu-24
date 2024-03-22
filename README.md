@@ -44,6 +44,6 @@ Manage feature flags as Kubernetes resources (CRs) and automatically inject and 
 
 An OpenFeature-compatible, open-source backend
 
-https://github.com/thomaspoignant/go-feature-flag
+[Repo](https://github.com/thomaspoignant/go-feature-flag)
 
 
