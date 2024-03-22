@@ -6,6 +6,11 @@
 </p>
 
 # Contribfest-EU-24
+
+🚀 Add yourself to the org 🚀
+
+https://github.com/open-feature/community/blob/8c5a12ef8ba635aa50603e3211f9cab02d5aca0b/config/open-feature/org.yaml#L32
+
 ## Open issues by language
 
 - [Go](https://github.com/search?q=org%3Aopen-feature+type%3Aissue+label%3Acontribfest+state%3Aopen+language%3AGo+&type=issues&state=open)
